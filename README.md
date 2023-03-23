@@ -1,6 +1,6 @@
 We are always learn something. :)
 
-Link to [Linkedin](https://www.linkedin.com/in/rodrigo-cesar-schuck/)
+[Linkedin](https://www.linkedin.com/in/rodrigo-cesar-schuck/)
 
 <!--
 **sschuckk/sschuckk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
