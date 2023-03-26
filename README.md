@@ -1,6 +1,6 @@
 We are always learn something. :)
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-cesar-schuck/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-cesar-schuck/)
 
 
 <!--
@@ -9,6 +9,11 @@ We are always learn something. :)
 [![Python](https://img.shields.io/badge/-Python-000?&logo=Python)](https://)
 
 ### Technologies
+
+### Testing
+
+![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![pytest](https://img.shields.io/badge/Pytest-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Other
 
