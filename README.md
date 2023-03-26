@@ -2,7 +2,18 @@ We are always learn something. :)
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-cesar-schuck/)
 
+
 <!--
+### Languages
+
+[![Python](https://img.shields.io/badge/-Python-000?&logo=Python)](https://)
+
+### Technologies
+
+### Other
+
+### Spotify
+
 **sschuckk/sschuckk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
